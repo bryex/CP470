@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">assignment 1</string>
-    <string name="hello_message">Dzien Dobre!</string>
+    <string name="hello_message">Witaj świecie</string>
     <string name="ButtonText">I\'m a button</string>
+    <string name="login">Zaloguj sie</string>
+    <string name="login_text">Nazwa użytkownika</string>
+    <string name="password">hasło</string>
+    <string name="switch_listView">co to robi</string>
+    <string name="checkbox">pole wyboru</string>
+    <string name="RadioButton">Przycisk radiowy</string>
 </resources>
